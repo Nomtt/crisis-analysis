@@ -1,5 +1,7 @@
 # financial-crisis-visualization
 
+A group of my friends were comparing different financial collapses since 2000's, like cryto and traditional crises, and trying to come up with a solution.
+
 This repository contains simple quantitative analysis of the 2008 Global Financial Crisis, focusing on the mechanical breakdowns in market confidence. By correlating the collapse of distressed institutions (**AIG, Citigroup**) with systemic stress indicators (**TED Spread, VIX**), this project models how liquidity crises mutate into solvency crises.
 
 The analysis contrasts the "Risk Transfer" mechanism of 2008 (where public backstops absorbed losses) against the "survivor" metrics of resilient banks like JPMorgan.
@@ -46,5 +48,5 @@ The notebook reconstructs the timeline of the 2008 crash through three analytica
 
 ---
 
-### Technologies Stack: 
+### Tech Stack: 
 Python, pandas, matplotlib
