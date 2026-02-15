@@ -6,6 +6,12 @@ This repository contains simple quantitative analysis of the 2008 Global Financi
 
 The analysis contrasts the "Risk Transfer" mechanism of 2008 (where public backstops absorbed losses) against the "survivor" metrics of resilient banks like JPMorgan.
 
+
+---
+
+### Tech Stack: 
+Python, pandas, matplotlib
+
 ---
 
 ### Financial & Economic implications
@@ -45,8 +51,3 @@ The notebook reconstructs the timeline of the 2008 crash through three analytica
 1.  **Risk Transfer:** Visualizing the destruction of private equity value (AIG/Citi) vs. the resilience of survivors (JPM).
 2.  **Market Stress:** Using the **VIX** to identify the transition from "correction" to "panic."
 3.  **Interbank Trust:** Using the **TED Spread** as a proxy to identify when banks stopped trusting each other, preceding the broader equity market crash.
-
----
-
-### Tech Stack: 
-Python, pandas, matplotlib
