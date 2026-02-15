@@ -1,6 +1,6 @@
 # financial-crisis-visualization
 
-This repository contains a quantitative analysis of the 2008 Global Financial Crisis, focusing on the mechanical breakdowns in market confidence. By correlating the collapse of distressed institutions (**AIG, Citigroup**) with systemic stress indicators (**TED Spread, VIX**), this project models how liquidity crises mutate into solvency crises.
+This repository contains simple quantitative analysis of the 2008 Global Financial Crisis, focusing on the mechanical breakdowns in market confidence. By correlating the collapse of distressed institutions (**AIG, Citigroup**) with systemic stress indicators (**TED Spread, VIX**), this project models how liquidity crises mutate into solvency crises.
 
 The analysis contrasts the "Risk Transfer" mechanism of 2008 (where public backstops absorbed losses) against the "survivor" metrics of resilient banks like JPMorgan.
 
