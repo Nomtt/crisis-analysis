@@ -27,7 +27,7 @@ By overlaying the **TED Spread** (difference between 3-Month LIBOR and T-Bills) 
 
 ---
 
-### 🚀 Key Technical Features
+### Key Technical Features
 
 * **Automated Data Pipeline:** Scripts to unzip and inventory complex financial datasets (`gfc.zip`) containing equities and macro indicators.
 * **Multi-Institution Comparison:**
