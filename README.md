@@ -17,8 +17,6 @@ Python, pandas, matplotlib
 
 Beyond standard EDA, our project visualizes three critical economic phenomena:
 
----
-
 #### 1. The "Risk Transfer" Mechanism (Private Loss to Public Liability)
 
 <p align="center">
@@ -35,7 +33,6 @@ The analysis quantifies the massive wealth destruction in the private sector tha
 
 * **The Implications:** Unlike a standard recession, this "fat tail" event shifted liability from private balance sheets to the public sector (via TARP). The code visualizes this by contrasting the total collapse of these firms against the **S&P 500's** relatively "mild" **-57%** drawdown, isolating the systemic risk premium.
 
----
 
 #### 2. The "Psychological Cliff" (Breaking the Buck)
 
@@ -56,7 +53,6 @@ The notebook correlates the timing of the **Reserve Primary Fund** falling below
 </tr>
 </table>
 
----
 
 #### 3. Liquidity vs. Solvency (The Contagion Vector)
 
