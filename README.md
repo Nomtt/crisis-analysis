@@ -23,6 +23,7 @@ Beyond standard EDA, our project visualizes three critical economic phenomena:
 <img width="1611" height="754" alt="image" src="https://github.com/user-attachments/assets/47c262e0-2ef0-47ee-bbe1-38e73ef85ed5" />
 The analysis quantifies the massive wealth destruction in the private sector that necessitated government intervention.
 * **The Wipeout:** Equity holders in **AIG** and **Citigroup** saw near-total losses of **-99.5%** and **-98.0%** respectively.
+<img width="1357" height="253" alt="image" src="https://github.com/user-attachments/assets/393e0412-cda0-4bbb-88c7-6fe8172580f0" />
 * **The Implications:** Unlike a standard recession, this "fat tail" event shifted liability from private balance sheets to the public sector (via TARP). The code visualizes this by contrasting the total collapse of these firms against the **S&P 500's** relatively "mild" **-57%** drawdown, isolating the systemic risk premium.
 
 #### 2. The "Psychological Cliff" (Breaking the Buck)
