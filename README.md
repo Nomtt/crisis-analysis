@@ -28,6 +28,7 @@ The notebook correlates the timing of the **Reserve Primary Fund** falling below
 * **Economic Intuition:** In money markets, a 3% loss is not just a dip—it is a contract failure. This small deviation triggered a non-linear panic response, proving that "safe" assets rely on binary trust (1.00 or bust) rather than fundamental valuation.
 
 #### 3. Liquidity vs. Solvency (The Contagion Vector)
+<img width="1234" height="644" alt="image" src="https://github.com/user-attachments/assets/8f03b23c-dbf4-4c44-bb95-a1c7b08aef39" />
 By overlaying the **TED Spread** (difference between 3-Month LIBOR and T-Bills) on equity prices, the analysis identifies the exact moment the crisis shifted from "Credit Concern" to "Liquidity Freeze."
 * **Implication:** AIG didn't fail solely because of poor insurance underwriting; it failed because the interbank lending market (visualized by the TED spike) froze, denying them the short-term liquidity needed to post collateral.
 
